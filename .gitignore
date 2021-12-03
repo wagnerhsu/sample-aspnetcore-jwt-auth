@@ -2,3 +2,6 @@
 /webapplication/.vscode
 /webapplication/bin
 /webapplication/obj
+.idea/
+bin/
+obj/
